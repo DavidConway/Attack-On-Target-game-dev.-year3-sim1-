@@ -1,0 +1,23 @@
+--platform=Windows
+--backend=burst-llvm
+--target=X64_SSE4
+--noalias
+--dump=Function
+--float-precision=Standard
+--format=Coff
+--output=C:\Users\dconw\Desktop\Attack on Target vertion3\Temp\StagingArea\Data\Plugins\lib_burst_generated
+--root-assembly=C:\Users\dconw\Desktop\Attack on Target vertion3\Temp\StagingArea\Data\Managed\Unity.ProBuilder.dll
+--root-assembly=C:\Users\dconw\Desktop\Attack on Target vertion3\Temp\StagingArea\Data\Managed\Unity.Postprocessing.Runtime.dll
+--root-assembly=C:\Users\dconw\Desktop\Attack on Target vertion3\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
+--root-assembly=C:\Users\dconw\Desktop\Attack on Target vertion3\Temp\StagingArea\Data\Managed\UnityEngine.UI.dll
+--root-assembly=C:\Users\dconw\Desktop\Attack on Target vertion3\Temp\StagingArea\Data\Managed\Unity.TextMeshPro.dll
+--root-assembly=C:\Users\dconw\Desktop\Attack on Target vertion3\Temp\StagingArea\Data\Managed\Unity.Timeline.dll
+--root-assembly=C:\Users\dconw\Desktop\Attack on Target vertion3\Temp\StagingArea\Data\Managed\Unity.Mathematics.dll
+--root-assembly=C:\Users\dconw\Desktop\Attack on Target vertion3\Temp\StagingArea\Data\Managed\Assembly-CSharp-firstpass.dll
+--root-assembly=C:\Users\dconw\Desktop\Attack on Target vertion3\Temp\StagingArea\Data\Managed\Unity.ProBuilder.Poly2Tri.dll
+--root-assembly=C:\Users\dconw\Desktop\Attack on Target vertion3\Temp\StagingArea\Data\Managed\Unity.ProBuilder.KdTree.dll
+--root-assembly=C:\Users\dconw\Desktop\Attack on Target vertion3\Temp\StagingArea\Data\Managed\Unity.TerrainTools.dll
+--root-assembly=C:\Users\dconw\Desktop\Attack on Target vertion3\Temp\StagingArea\Data\Managed\Unity.ProBuilder.Stl.dll
+--root-assembly=C:\Users\dconw\Desktop\Attack on Target vertion3\Temp\StagingArea\Data\Managed\Unity.Burst.dll
+--root-assembly=C:\Users\dconw\Desktop\Attack on Target vertion3\Temp\StagingArea\Data\Managed\Unity.ProGrids.dll
+--assembly-folder=C:\Users\dconw\Desktop\Attack on Target vertion3\Temp\StagingArea\Data\Managed\
